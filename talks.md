@@ -1,10 +1,14 @@
 # Talks
 
+### JS
+
+[Functional && Reactive - Preethi Kasireddy](https://www.youtube.com/watch?v=yYze0gCBtvY) | ⭐⭐⭐⭐⚪
+
 ### OpenSource
 
-[Christopher Chedeau - Being Successful at Open Source](https://www.youtube.com/watch?v=nRF0OVQL9Nw) | ⭐⭐⭐⭐⭐
+[Being Successful at Open Source - Christopher Chedeau](https://www.youtube.com/watch?v=nRF0OVQL9Nw) | ⭐⭐⭐⭐⭐
 
 ---
 ### Security
 
-[Emil Bay: Keeping passwords safe in 2017 | JSConf EU 2017](https://www.youtube.com/watch?v=nRF0OVQL9Nw) | ⭐⭐⭐⭐⚪
+[Keeping passwords safe in 2017 - Emil Bay ](https://www.youtube.com/watch?v=nRF0OVQL9Nw) | ⭐⭐⭐⭐⚪
