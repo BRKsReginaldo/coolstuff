@@ -13,5 +13,8 @@
 ### Reference/notes
 *Links or notes worth sharing*
 
+### How could I have done it better?
+*Faster, more efficient, easier...*
+
 -----------------------
 **Time to complete: x days y hours z min**
